@@ -1,9 +1,5 @@
 # NotionMate：透過Notion管理的Line推播平台
 
-Cover: image/cover.jpg
-Created time: May 14, 2023 3:01 PM
-工具項目: Line API, Notion API, Python
-應用項目: Line, Notion
 
 # 動機
 
