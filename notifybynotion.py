@@ -13,8 +13,8 @@ from datetime import datetime
 
 # notion information
 database_id  = "c23041161c8f45dba3dc362db47eab3d" # notion table page
-notion_token = "secret_ASN0PiHAkhGu7RpN2arKAJkLeNtjCAFpb3Jw6UdaXxC" # notion connection token
-Line_token   = "FY6yK0R1gAzMtNj5jUMJeFiM6G7Xd9Dkt1kJrzdDUib"
+notion_token = "your_Notion_token" # notion connection token
+Line_token   = "your_Line_token"
 
 
 
